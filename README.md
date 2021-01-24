@@ -11,13 +11,13 @@ Includes:
 
 Assignment: 
 
-** Data Modeling **
+**Data Modeling**
 
     * Create a table schema for each of the six CSV files. Specifying data types, primary keys, foreign keys, and other constraints.
     * Export photo of ERD and table schemata
 
 
-** Data Analysis **
+**Data Analysis**
 
     * List the following details of each employee: employee number, last name, first name, sex, and salary.
         https://github.com/eenabow/sql-challenge/blob/main/EmployeeSQL/1.JPG
